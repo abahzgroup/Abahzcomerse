@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342370893667",
+    "firebase_url": "https://abahz-2b7bd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "abahz-2b7bd",
+    "storage_bucket": "abahz-2b7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342370893667:android:e805fcd82d321e993e9d56",
+        "android_client_info": {
+          "package_name": "com.jeanmamo.abahzcomerse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342370893667-vfpk9lmg3ulik7im057g5llb531vdp96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZY-LYJDeQPhm097zRPOb7nqkmNf-1lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342370893667-vfpk9lmg3ulik7im057g5llb531vdp96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
